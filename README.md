@@ -1,6 +1,8 @@
 # What's the point of this repo?
 Learning OCaml and compilers at the same time for learning purposes
 
+## MVP
+Arithmetric operations and variables to support them
 
 # What are the components of a compiler?
 1. The frontend:
